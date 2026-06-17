@@ -9,7 +9,7 @@ $documents = [
     "type" => "PDF",
     "size" => "200.4 MB",
     "date" => "2026",
-    "summary" => "Documento de la cascada de metas que conecta objetivos empresariales, metas de TI y procesos de gobierno.",
+    "summary" => "Alineación de los objetivos estratégicos de la consultora con la resiliencia operativa y protección de infraestructura del cliente.",
     "file" => "docs/1-Metas_Corporativas.pdf"
   ],
   [
@@ -18,7 +18,7 @@ $documents = [
     "type" => "PDF",
     "size" => "1.8 MB",
     "date" => "2026",
-    "summary" => "Pasos operativos para aislar activos comprometidos y reducir el impacto.",
+    "summary" => "Definición de métricas técnicas y objetivos de visibilidad tecnológica enfocados en los 100 nodos a monitorear.",
     "file" => "docs/2-Metas_TI.pdf"
   ],
   [
@@ -27,7 +27,7 @@ $documents = [
     "type" => "PDF",
     "size" => "900 KB",
     "date" => "2026",
-    "summary" => "Plantilla para entregar hallazgos, impacto, causa raíz y recomendaciones.",
+    "summary" => "Mapeo lógico que conecta los requerimientos del negocio con los controles de seguridad y gobierno digital implementados.",
     "file" => "docs/3-Cascada de Metas.pdf"
   ],
   [
@@ -36,7 +36,7 @@ $documents = [
     "type" => "PDF",
     "size" => "760 KB",
     "date" => "2026",
-    "summary" => "Lista de evidencias mínimas para análisis forense y trazabilidad.",
+    "summary" => "Representación visual de la estrategia de ciberseguridad para cerrar la brecha entre la detección y la neutralización de amenazas.",
     "file" => "docs/4-Mapa estrategico.pdf"
   ],
   [
@@ -45,7 +45,7 @@ $documents = [
     "type" => "PDF",
     "size" => "1.2 MB",
     "date" => "2026",
-    "summary" => "Recomendaciones técnicas posteriores a la erradicación del incidente.",
+    "summary" => "Justificación financiera y operativa del servicio SEC-2026-001, detallando el balance de costos CapEx y OpEx frente al riesgo.",
     "file" => "docs/5-Caso_Negocio.pdf"
   ],
   [
@@ -54,7 +54,7 @@ $documents = [
     "type" => "PDF",
     "size" => "514 MB",
     "date" => "2026",
-    "summary" => "Lineamientos internos para clasificar, escalar y documentar incidentes.",
+    "summary" => "Ficha técnica formal del servicio que define los tres carriles operativos, responsabilidades de los roles y el acuerdo de SLA.",
     "file" => "docs/6-Cedula de servicio con procesos.pdf"
   ],
   [
@@ -63,7 +63,7 @@ $documents = [
     "type" => "PDF",
     "size" => "203 MB",
     "date" => "2026",
-    "summary" => "Lineamientos internos para clasificar, escalar y documentar incidentes.",
+    "summary" => "Clasificación y priorización de los 100 endpoints críticos, identificando servidores centrales y estaciones de alta dirección.",
     "file" => "docs/7-Inventario_Activos.pdf"
   ],
   [
@@ -72,7 +72,7 @@ $documents = [
     "type" => "PDF",
     "size" => "191 MB",
     "date" => "2026",
-    "summary" => "Lineamientos internos para clasificar, escalar y documentar incidentes.",
+    "summary" => "Evaluación de amenazas y vulnerabilidades como ransomware y phishing, detallando los impactos antes y después del control EDR.",
     "file" => "docs/8-Matriz de riesgos.pdf"
   ],
   [
@@ -81,7 +81,7 @@ $documents = [
     "type" => "PDF",
     "size" => "417 MB",
     "date" => "2026",
-    "summary" => "Lineamientos internos para clasificar, escalar y documentar incidentes.",
+    "summary" => "Análisis de impacto por fases del servicio, estableciendo los tiempos límite de recuperación (RTO) de hasta 15 minutos para alertas.",
     "file" => "docs/9-BIA Tactico.pdf"
   ],
   [
@@ -90,7 +90,7 @@ $documents = [
     "type" => "PDF",
     "size" => "223 MB",
     "date" => "2026",
-    "summary" => "Lineamientos internos para clasificar, escalar y documentar incidentes.",
+    "summary" => "Evaluación de dependencias de recursos críticos (personal consultor, SOC, red y telemetría) bajo la norma ISO 22301.",
     "file" => "docs/10-BIA Operacional.pdf"
   ],
   [
@@ -99,10 +99,9 @@ $documents = [
     "type" => "PDF",
     "size" => "288 KB",
     "date" => "2026",
-    "summary" => "Lineamientos internos para clasificar, escalar y documentar incidentes.",
+    "summary" => "Estrategias lógicas y playbooks de contingencia manual para mantener la respuesta a incidentes ante fallas de la infraestructura central.",
     "file" => "docs/11-Plan de Continuidad.pdf"
   ]
-
 ];
 ?>
 
